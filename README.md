@@ -38,7 +38,7 @@ sudo apt-get install npm
 ```
 Then to install wio, you have to do:
 ```bash
-npm install -g wio
+sudo npm install -g wio
 ```
 Many times there are issues with permission on ubuntu and hence, following can be done:
 ```bash
